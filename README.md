@@ -1,3 +1,3 @@
 # 30DaysOfCode
-Day 2
+Day II
 https://codepen.io/glory_ola/pen/PoERYON?editors=0012
